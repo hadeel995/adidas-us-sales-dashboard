@@ -5,7 +5,8 @@ An interactive Excel analytics dashboard designed to track, visualize, and analy
 ---
 
 ## 📊 Dashboard Overview
-<img width="946" height="377" alt="photo p" src="https://github.com/user-attachments/assets/170c44bd-171c-4f0d-861a-81ffa13394b2" />
+<img width="1257" height="293" alt="image" src="https://github.com/user-attachments/assets/57b9f3d7-7123-463d-a5b0-ec17b162a1b2" />
+
 
 
 The **Adidas US Interactive Sales Dashboard** provides a holistic, high-level view of retail operations, product demand, and financial performance across three fiscal years (2023–2025). Built to transform raw transactional data into actionable commercial insights, the dashboard is divided into three core analytical zones:
